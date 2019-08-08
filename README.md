@@ -1,4 +1,11 @@
 # JavaScript_Classwork4_If2
+
+INCOMPLETE
+Please submit any work that you have even if you don't finish 
+You can get partial credit! 
+If you have trouble cloning or pushing your project let Autumn, Kenn, or Kevin know 
+Score : 0 points
+
 ### Create a new file for each exercise
 
 #### Exercise 10
